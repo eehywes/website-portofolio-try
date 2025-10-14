@@ -4,7 +4,7 @@ import { ExternalLink, Code } from 'lucide-react';
 import projectPreview from '@/assets/project-preview.jpg';
 
 const Projects = () => {
-  const techStack = ['HTML', 'MYSOL', 'CSS'];
+  const techStack = ['HTML', 'MySQL', 'CSS'];
 
   return (
     <section id="projects" className="min-h-screen flex items-center justify-center px-6 py-20">
@@ -29,7 +29,7 @@ const Projects = () => {
           
           <p className="text-foreground/80 mb-6 leading-relaxed">
             Alexa Store adalah website berisi jual beli Handphone Second yang terpercaya, 
-            Saya menggunakana website ini untuk membantu usaha saya
+            Saya menggunakan website ini untuk membantu usaha saya
           </p>
           
           <div className="mb-6">

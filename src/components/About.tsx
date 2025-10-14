@@ -11,12 +11,12 @@ const About = () => {
         
         <div className="glass-card rounded-3xl p-8 md:p-12 space-y-6">
           <p className="text-foreground/80 leading-relaxed">
-            Hallo! Nama Saya Alaika Amirul Fahad Lahir di Kendal, 05 Januari 2025, Alamat saya di Desa Gebanganom Wetan Kangkung Kendal, 
+            Hallo! Nama Saya Alaika Amirul Fahad Lahir di Kendal, 05 Januari 2005, Alamat saya di Desa Gebanganom Wetan Kangkung Kendal, 
             Saya Mahasiswa Teknik Informatika Universitas Wahid Hasyim Semarang
           </p>
           
           <p className="text-foreground/80 leading-relaxed">
-            Saya memiliki Kemampuan berpikir kreatif, kritis dan terbuka, sebagai mahasiswa saya juga mempunya kemampuan Problem Solving yang bagus, memiliki minat di bidang Fotografi dan Wirausaha. 
+            Saya memiliki Kemampuan berpikir kreatif, kritis dan terbuka, sebagai mahasiswa saya juga mempunyai kemampuan Problem Solving yang bagus, memiliki minat di bidang Fotografi dan Wirausaha. 
             Saya Juga memiliki bisnis Jual Beli Iphone 
           </p>
         </div>

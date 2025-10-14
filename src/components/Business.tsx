@@ -19,7 +19,7 @@ const Business = () => {
           </p>
           
           <p className="text-foreground/80 mb-8 leading-relaxed">
-            Memulai Bisnis di Tahun 2023 menjadikan saya memiliki pengalama wirausaha yang cukup, 
+            Memulai Bisnis di Tahun 2023 menjadikan saya memiliki pengalaman wirausaha yang cukup, 
             memberikan banyak pengalaman dan pembelajaran, dari mulai negosiasi, kemampuan analisis 
             pasar dan managemen finansial 
           </p>
