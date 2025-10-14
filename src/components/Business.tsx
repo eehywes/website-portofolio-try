@@ -14,14 +14,14 @@ const Business = () => {
           <h3 className="text-2xl md:text-3xl font-bold mb-6 text-primary">About My Business</h3>
           
           <p className="text-foreground/80 mb-6 leading-relaxed">
-            Saya Memiliki sama Alat dan Handphone Bekas Bernama Alexa Store, menyediakan berbagai 
-            handphone bekas mulai market Adnoid, Iphone dan tipe lain
+            Saya Memiliki bisnis Jual Beli Handphone Bekas Bernama Alexa Store , menyediakan berbagai 
+            Handphone bekas dari mulai android iphone dan lain-lain
           </p>
           
           <p className="text-foreground/80 mb-8 leading-relaxed">
-            Dibentuk pada 19 Februari 2025, menyediakan yang memberi penggunna setuberak yang budak 
-            mendasalam sampai pengalaman cah pembelaran, sisi produk tergodesi, komenlairan dhmasis 
-            belum dan ketersihaan Thailand
+            Memulai Bisnis di Tahun 2023 menjadikan saya memiliki pengalama wirausaha yang cukup, 
+            memberikan banyak pengalaman dan pembelajaran, dari mulai negosiasi, kemampuan analisis 
+            pasar dan managemen finansial 
           </p>
           
           <Button className="btn-primary rounded-full px-6">
