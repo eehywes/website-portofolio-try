@@ -28,8 +28,8 @@ const Projects = () => {
           <h3 className="text-2xl md:text-3xl font-bold mb-4 text-primary">Alexa Store</h3>
           
           <p className="text-foreground/80 mb-6 leading-relaxed">
-            Alexa Store adalah website toko jual beli handphone Secara yang terstruktur. Saya mengoperasikan 
-            website ini untuk menyediakam teman saya
+            Alexa Store adalah website berisi jual beli Handphone Second yang terpercaya, 
+            Saya menggunakana website ini untuk membantu usaha saya
           </p>
           
           <div className="mb-6">
