@@ -32,7 +32,7 @@ const Contact = () => {
                 <div>
                   <p className="font-medium mb-1">Email</p>
                   <a href="mailto:amirulfahad8@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
-                    amirulfahad8@gmail.com
+                    amirulfahad2000@gmail.com
                   </a>
                 </div>
               </div>
@@ -43,8 +43,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="font-medium mb-1">Phone</p>
-                  <a href="tel:+622898088700" className="text-muted-foreground hover:text-primary transition-colors">
-                    +62 289 8088 700
+                  <a href="tel: +6289604887405" className="text-muted-foreground hover:text-primary transition-colors">
+                   +62 896-0488-7405
                   </a>
                 </div>
               </div>
@@ -56,7 +56,7 @@ const Contact = () => {
                 <div>
                   <p className="font-medium mb-1">Address</p>
                   <p className="text-muted-foreground">
-                    Instagram Yikum, Kangkung, Kendal
+                    Gebanganom Wetan, Kangkung, Kendal
                   </p>
                 </div>
               </div>
